@@ -211,10 +211,6 @@ The application uses the following API endpoint (hardcoded for demo purposes):
 3. **No Authentication**: This is a demo application without user authentication
 4. **Local Storage**: No local persistence of data between sessions
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🆘 Troubleshooting
 
 ### Common Issues
@@ -224,8 +220,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 3. **Dependencies**: Run `npm install` if you encounter module resolution errors
 4. **Test Failures**: Ensure all dependencies are installed and run `npm test` to verify setup
 
-### Getting Help
-
-- Check the [Issues](link-to-issues) page for known problems
-- Review the test files for usage examples
-- Examine the component documentation in the code comments
